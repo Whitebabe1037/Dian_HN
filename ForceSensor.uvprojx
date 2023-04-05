@@ -719,6 +719,16 @@
               <FileType>5</FileType>
               <FilePath>.\User\stm32f10x_it.h</FilePath>
             </File>
+            <File>
+              <FileName>Kalman.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\User\Kalman.c</FilePath>
+            </File>
+            <File>
+              <FileName>Kalman.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\User\Kalman.h</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
